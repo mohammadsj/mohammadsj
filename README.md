@@ -33,12 +33,7 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 [![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
 
 - **Tools & Platforms:**  
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />  
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=python&logoColor=white" alt="Pytest" />  
-
+[![My Skills](https://skillicons.dev/icons?i=redis,docker,figma,git,github,mongodb,nginx,postgres,postman,&theme=light)](https://skillicons.dev)
 
 ## 📫 How to Reach Me:  
 
