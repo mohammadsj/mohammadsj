@@ -6,10 +6,11 @@ Mohammad Sajadian is a highly motivated programmer specializing in **Python** an
 With extensive experience in **backend development** using **Django** and **Django REST Framework**, and expertise in **frontend development** with **Vue.js** and **Vuetify**, Mohammad excels at creating seamless, full-stack solutions for web applications.  
 
 In addition to his current skillset, Mohammad is aiming to explore the world of **Artificial Intelligence**, combining his backend and frontend expertise with the power of AI to develop cutting-edge systems.  
+
 ![Currently Online](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
 ![Playing Nothing](https://img.shields.io/badge/Playing-Nothing%20Right%20Now-blue?style=flat-square&logo=steam)
 ![Coding Django](https://img.shields.io/badge/Coding-Django%20Project-blueviolet?style=flat-square&logo=django&logoColor=white)
-![Listening to Music](https://img.shields.io/badge/Listening_to-Programming%20LoFi-1ED760?style=flat-square&logo=spotify&logoColor=white)
+![Listening to Nothing]
 
 
 ## 🛠️ Current Focus:  
