@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohammadsj
 - 👀 I’m interested in Programming and website design and artificial intelligence
 - 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on front-end
 - 📫 How to reach me instagram: Mohammad.SjR
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
