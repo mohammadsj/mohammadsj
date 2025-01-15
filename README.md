@@ -27,12 +27,10 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css&theme=light)](https://skillicons.dev)
 
 - **Frontend Frameworks:**  
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />  
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" alt="Vuetify" />  
+[![My Skills](https://skillicons.dev/icons?i=vue,vuetify&theme=light)](https://skillicons.dev)
 
 - **Backend Frameworks:**  
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />  
-  <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=red" alt="Django REST Framework" />  
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
 
 - **Tools & Platforms:**  
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />  
