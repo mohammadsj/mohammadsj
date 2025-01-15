@@ -10,7 +10,6 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 ![Currently Online](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
 ![Playing Nothing](https://img.shields.io/badge/Playing-Nothing%20Right%20Now-blue?style=flat-square&logo=steam)
 ![Coding Django](https://img.shields.io/badge/Coding-Django%20Project-blueviolet?style=flat-square&logo=django&logoColor=white)
-![Listening to Music](https://img.shields.io/badge/Sorena?style=flat-square&logo=spotify&logoColor=white)
 
 
 ## 🛠️ Current Focus:  
