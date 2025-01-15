@@ -19,7 +19,31 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 ## 💬 Ask Me About:  
 - Full-stack development  
 - Python, Django, Vue.js, and Vuetify  
-- Strategies for building scalable and maintainable projects  
+- Strategies for building scalable and maintainable projects
+
+- ## 🛠 Technologies & Tools  
+
+- **Programming Languages:**  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />  
+
+- **Frontend Frameworks:**  
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />  
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" alt="Vuetify" />  
+
+- **Backend Frameworks:**  
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />  
+  <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=red" alt="Django REST Framework" />  
+
+- **Tools & Platforms:**  
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=python&logoColor=white" alt="Pytest" />  
+
 
 ## 📫 How to Reach Me:  
 
