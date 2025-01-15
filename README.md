@@ -23,15 +23,15 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 
 ## 📫 How to Reach Me:  
 
-- **Email:**<a href="mailto:mohammadsajadian3011@gmail.com">
+- **Email:** <a href="mailto:mohammadsajadian3011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" target="_blank"/>
   </a>  
 
-- **Instagram:**<a href="https://www.instagram.com/mohammad.sjr/">
+- **Instagram:** <a href="https://www.instagram.com/mohammad.sjr/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/>
   </a>  
 
-- **LinkedIn:**<a href="https://www.linkedin.com/in/mohammad-sajadian-a02468343">
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mohammad-sajadian-a02468343">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
   </a>  
 
