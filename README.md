@@ -22,7 +22,7 @@ In addition to his current skillset, Mohammad is aiming to explore the world of 
 - Strategies for building scalable and maintainable projects  
 
 ## 📫 How to Reach Me:  
-- **Email:** [![email](mohammadsajadian3011@gmail.com  )]
+- **Email:** [![email](mohammadsajadian3011@gmail.com  )]<img src="./icons/Instagram.svg" width="48">
 - **Instagram:** [![instagram](https://www.instagram.com/mohammad.sjr/)]
 - **LinkedIn:** [![linkedin](www.linkedin.com/in/mohammad-sajadian-a02468343)]
  
